@@ -10,3 +10,5 @@
 # Correr servidor
 
 <code>python manage.py runserver</code>
+
+<h3>Acceder a localhost:8000</h3>
